@@ -1,0 +1,6 @@
+{
+    "prefix": "PREFIX DO BOT",
+    "roleMailbox": "ID DO CARGO QUE PODERÁ VER O CHAT DE SUPORTE",
+    "guildId": "ID DO SERVIDOR",
+    "parentMailbox": "ID DA CATEGORIA AONDE OS CHATS DE SUPORTE SERÁ CRIADO"
+}
